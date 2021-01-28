@@ -1,5 +1,7 @@
 # ficb
 
+https://github.com/benawad/graphql-beginner-series/blob/2_graphql_resolvers/src/index.js
+
 
 const { ApolloServer, gql } = require("apollo-server");
 
